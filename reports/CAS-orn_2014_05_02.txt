@@ -1,0 +1,140 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 294
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 1
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-03 ; Times: 6
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-07 ; Times: 6
+	Date: 2014-04-08 ; Times: 1
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-12 ; Times: 1
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-15 ; Times: 1
+	Date: 2014-04-16 ; Times: 1
+	Date: 2014-04-17 ; Times: 8
+	Date: 2014-04-19 ; Times: 7
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-22 ; Times: 5
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-24 ; Times: 4
+	Date: 2014-04-25 ; Times: 1
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-27 ; Times: 5
+	Date: 2014-04-28 ; Times: 4
+	Date: 2014-04-29 ; Times: 1
+	Date: 2014-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geotrygon" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "catalognumber:20755 OR 20756 OR 26446 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:plumbeus genus:vireo institutioncode:CAS" ; Times: 1
+	Query: "dead AND kennedy" ; Times: 2
+	Query: "jacana" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "bendire california" ; Times: 1
+	Query: "Western fence lizard" ; Times: 3
+	Query: "stateprovince:"california" specificepithet:alba genus:ardea" ; Times: 1
+	Query: "specificepithet:coronata. year >= 1892 year <= 1892" ; Times: 1
+	Query: "Icterus cucullatus riverside" ; Times: 1
+	Query: "Ninox philippensis" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 6
+	Query: "rachael" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 13
+	Query: "type:specimen (Bailey) year >= 1945 year <= 1959" ; Times: 1
+	Query: "peafowl" ; Times: 1
+	Query: "fence lizard" ; Times: 1
+	Query: "Mollusca" ; Times: 1
+	Query: "balaeniceps" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "genus:Vultur" ; Times: 5
+	Query: "Micrathene whitneyi graysoni" ; Times: 1
+	Query: "pagoda" ; Times: 1
+	Query: "cas 53522" ; Times: 1
+	Query: "philodice" ; Times: 3
+	Query: "Mollusc" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(35.1053045805633,-116.11038208007812))<5202" ; Times: 1
+	Query: "Cinclus mexicanus 17754" ; Times: 1
+	Query: "genus:vultur" ; Times: 3
+	Query: "wolves" ; Times: 1
+	Query: "Pachycephala melanura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 433 download events in this period)
+Total number of records downloaded: 1173 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 998
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 1
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 4
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-17 ; Times: 3
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Actitis macularia" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "Perisoreus canadensis type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "Picoides villosus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Cinclus mexicanus 17754" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:vultur" ; Times: 1
+	Query: "Tachycineta bicolor institutioncode:FMNH OR CAS OR MVZ OR UMMZ" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Tachycineta bicolor type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 294
+Number of download events that retrieved data from the resource: 156
+Total number of records downloaded: 165815
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 294
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 190173
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
