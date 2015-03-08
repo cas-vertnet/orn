@@ -1,0 +1,284 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 298
+Number of records retrieved in searches: 4292
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 9
+	Country: India ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 45
+	Country: Portugal ; Times: 5
+	Country: United States ; Times: 209
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 7
+	Date: 2015-02-05 ; Times: 9
+	Date: 2015-02-06 ; Times: 3
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 32
+	Date: 2015-02-09 ; Times: 96
+	Date: 2015-02-10 ; Times: 11
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 10
+	Date: 2015-02-13 ; Times: 9
+	Date: 2015-02-14 ; Times: 6
+	Date: 2015-02-15 ; Times: 2
+	Date: 2015-02-16 ; Times: 5
+	Date: 2015-02-17 ; Times: 6
+	Date: 2015-02-18 ; Times: 10
+	Date: 2015-02-19 ; Times: 12
+	Date: 2015-02-20 ; Times: 7
+	Date: 2015-02-21 ; Times: 4
+	Date: 2015-02-22 ; Times: 8
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 13
+	Date: 2015-02-26 ; Times: 6
+	Date: 2015-02-27 ; Times: 10
+	Date: 2015-02-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "leptoptilos" ; Times: 1
+	Query: "Ptilopsis" ; Times: 1
+	Query: "burchelli tissue:1" ; Times: 1
+	Query: "Mimus parvulus type:specimen institutioncode:CAS" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (Arizona) mappable:1" ; Times: 2
+	Query: "fregata magnificens mexico type:specimen" ; Times: 1
+	Query: "reinwardtoena crassirostris" ; Times: 2
+	Query: "Geococcyx californianus institutioncode:CAS mappable:1" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus AND (NOT egg NOT eggs) year >= 1800 year <= 1914" ; Times: 1
+	Query: "class:aves catalognumber:74671" ; Times: 1
+	Query: "Leucosticte arctoa wallowa" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "cissopis" ; Times: 1
+	Query: "Megascops tissue:1" ; Times: 2
+	Query: "aramides axillaris" ; Times: 1
+	Query: "GEOCOCCYX CALIFORNIANUS institutioncode:CAS mappable:1" ; Times: 1
+	Query: "Leucosticte wallowa" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "culicicapa tissue:1" ; Times: 2
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "selasphorus rufous type:specimen tissue:1" ; Times: 1
+	Query: "basileuterus melanogenys" ; Times: 1
+	Query: "lophornis ornatus" ; Times: 1
+	Query: "Mimus Ecuador type:specimen institutioncode:CAS" ; Times: 1
+	Query: "Cichladusa guttata Kenya" ; Times: 1
+	Query: "callipepla californica institutioncode:CAS mappable:1" ; Times: 4
+	Query: "Fregata Magnificens mappable:1" ; Times: 5
+	Query: "Geospiza difficilis type:specimen" ; Times: 1
+	Query: "panda" ; Times: 2
+	Query: "red panda" ; Times: 2
+	Query: "Camarhynchus heliobates type:specimen" ; Times: 1
+	Query: "empidonax traillii (arizona ) mappable:1" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Bubo virginianus saturatus" ; Times: 4
+	Query: "Platyspiza crassirostris type:specimen" ; Times: 1
+	Query: "Callipepla Californica type:specimen institutioncode:CAS mappable:1" ; Times: 1
+	Query: "Mimus type:specimen institutioncode:CAS" ; Times: 1
+	Query: "ardea alba tissue:1" ; Times: 1
+	Query: "aeronautes saxatalis institutioncode:CAS mappable:1" ; Times: 8
+	Query: "fregata magnificens mappable:1" ; Times: 3
+	Query: "Glaucidium cuculoides" ; Times: 1
+	Query: "Amazilia leucogaster brazil" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 1
+	Query: "Chen canagica" ; Times: 3
+	Query: "megalaima haemacephala type:specimen country:"India"" ; Times: 1
+	Query: "Sialia mexicana occidentalis year <= 1889" ; Times: 1
+	Query: "type:specimen genus:pseudoscops" ; Times: 1
+	Query: "veniliornis kirkii" ; Times: 2
+	Query: ""Dendroica petechia" type:specimen (California) mappable:1 distance(location,geopoint(39.35836934869491,-120.73608353734016))<100000" ; Times: 1
+	Query: "piranga ludoviciana johnson" ; Times: 1
+	Query: "callipepla californica institutioncode:cas mappable:1" ; Times: 3
+	Query: "Phoebastria albatrus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus AND (NOT united) tissue:1" ; Times: 1
+	Query: ""empidonax traillii" (Arizona)" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "Callipepla Californica institutioncode:CAS mappable:1" ; Times: 3
+	Query: "fregata magnificens" ; Times: 4
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "(lagonosticta)" ; Times: 1
+	Query: "Psittacula myanmar" ; Times: 4
+	Query: "Vidua genus:Vidua (tissue ) tissue:1" ; Times: 1
+	Query: "Certhidea fusca type:specimen" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "Camarhynchus pauper type:specimen" ; Times: 1
+	Query: "Geospiza magnirostris type:specimen" ; Times: 1
+	Query: "catharus guttatus (Maine)" ; Times: 1
+	Query: "dendroica petechia country:"USA" year >= 2000 year <= 2013" ; Times: 1
+	Query: "type:specimen specificepithet:flammeolus tissue:1" ; Times: 1
+	Query: "Alle alle 1932" ; Times: 1
+	Query: "larus fuliginosus year >= 1924 year <= 1935" ; Times: 1
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "orthotomus sutorius type:specimen country:"myanmar"" ; Times: 1
+	Query: "Rio Saloya" ; Times: 2
+	Query: "specificepithet:magnificus genus:lophornis" ; Times: 1
+	Query: "Foudia" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 1
+	Query: "(crete)" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "oceanodroma LEUCORHOA institutioncode:CAS mappable:1" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 6
+	Query: "megapodius" ; Times: 3
+	Query: "Sterna repressa type:specimen" ; Times: 3
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus year >= 1800 year <= 1915" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "ortalis leucogastra" ; Times: 2
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "oceanodroma leucorhoa institutioncode:CAS mappable:1" ; Times: 1
+	Query: "aves cm pubescens" ; Times: 1
+	Query: "county:"Del norte" stateprovince:"California" (george) mappable:1" ; Times: 1
+	Query: "Bubo africanus tissue:1" ; Times: 1
+	Query: "rabbits" ; Times: 1
+	Query: "Leucosticte Oregon" ; Times: 1
+	Query: "Certhidea olivacea type:specimen" ; Times: 1
+	Query: "rhodopechys tissue:1" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT united NOT isa) tissue:1" ; Times: 1
+	Query: "gymnogyps" ; Times: 1
+	Query: "dendroica petechia country:"USA" year >= 1990 year <= 2013" ; Times: 2
+	Query: "stateprovince:"virginia" (cobbs island) mappable:1" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 2
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "starnoenas cyanocephala" ; Times: 110
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "oceanodroma melania institutioncode:CAS mappable:1" ; Times: 4
+	Query: "Vireo flavoviridis" ; Times: 2
+	Query: "trogon caligatus country:"Mexico"" ; Times: 1
+	Query: "Microrhopias quixensis Panama" ; Times: 1
+	Query: "G. D. Leonard" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "CAS Leucosticte" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Fregata Magnificens institutioncode:CAS" ; Times: 2
+	Query: "cairina moschata" ; Times: 1
+	Query: "nesomimus type:specimen institutioncode:CAS" ; Times: 1
+	Query: "Camarhynchus psittacula type:specimen" ; Times: 1
+	Query: "catalognumber:71654 institutioncode:CAS" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States") tissue:1" ; Times: 1
+	Query: "Cichladusa Kenya" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hunter" ; Times: 1
+	Query: "Xenotriccus mexicanus type:specimen" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Brehm" ; Times: 1
+	Query: "CAS 49284" ; Times: 1
+	Query: "Numenius arquata" ; Times: 2
+	Query: "Myiarchus magnirostris type:specimen institutioncode:CAS" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Picathartes" ; Times: 1
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 326 download events in this period)
+Total number of records downloaded: 15289 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11454
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 5
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 9
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Camarhynchus parvulus type:specimen" ; Times: 1
+	Query: "Certhidea olivacea type:specimen" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Geospiza scandens type:specimen" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "cyanocorax tissue:1" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "Platyspiza crassirostris type:specimen" ; Times: 1
+	Query: "Camarhynchus pauper type:specimen" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "Taricha tissue:1 distance(location,geopoint(37.74176409133367,-121.376953125))<100000" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "genus:Cyanocorax tissue:1" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Geospiza difficilis type:specimen" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "Ammodramus type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Geospiza fortis type:specimen" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "Turnix sylvatica" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1034
+Total number of records retrieved from searches: 8848
+Number of download events that retrieved data from the resource: 93
+Total number of records downloaded: 29076
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1237
+Total number of records retrieved from searches: 11590
+Number of download events that retrieved data from the resource: 492
+Total number of records downloaded: 257607
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
