@@ -1,0 +1,309 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 1703
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 157
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 7
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-20 ; Times: 8
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-26 ; Times: 6
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 12
+	Date: 2016-01-28 ; Times: 12
+	Date: 2016-01-08 ; Times: 6
+	Date: 2016-01-09 ; Times: 6
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-19 ; Times: 18
+	Date: 2016-01-07 ; Times: 9
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-12 ; Times: 24
+	Date: 2016-01-11 ; Times: 12
+	Date: 2016-01-10 ; Times: 4
+	Date: 2016-01-17 ; Times: 14
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-15 ; Times: 29
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-18 ; Times: 3
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "cas 44220" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.067516))&lt;15000" ; Times: 1
+	Query: "cas 56271" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "cas 59563" ; Times: 1
+	Query: "cas 27196" ; Times: 2
+	Query: "cas 55785" ; Times: 1
+	Query: "cas 62881" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "pitiayumi brazil" ; Times: 1
+	Query: "cas 63072" ; Times: 1
+	Query: "Geothlypis aequinoctialis brazil" ; Times: 1
+	Query: "genus:Geospiza tissue:1" ; Times: 1
+	Query: "cas 43558" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "syndactyla subalaris" ; Times: 2
+	Query: "cas 13418" ; Times: 1
+	Query: "Sayornis saya quiescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 4
+	Query: "leucistic" ; Times: 1
+	Query: "cas 13417" ; Times: 1
+	Query: "cas 33450" ; Times: 1
+	Query: "cas 64192" ; Times: 1
+	Query: "cas 48038" ; Times: 2
+	Query: "class:aves locality:craig stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "sedentarius mappable:1" ; Times: 1
+	Query: "cas 55794" ; Times: 1
+	Query: "cas 55796" ; Times: 2
+	Query: "jefferson illinois" ; Times: 1
+	Query: "cas 65186" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "locality:Carmen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "cas 63883" ; Times: 2
+	Query: "cas 14120" ; Times: 1
+	Query: "cas 67048" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "cas 13587" ; Times: 1
+	Query: "zonotrichia atricapilla pasadena" ; Times: 1
+	Query: "Agelaius phoeniceus aciculatus year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "genus:Certhidea tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))&lt;15000" ; Times: 1
+	Query: "cas 40052" ; Times: 1
+	Query: "Alberta Canada aves 2005-2015" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "cas 62987" ; Times: 1
+	Query: "cas 27277" ; Times: 2
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "cas 64208" ; Times: 2
+	Query: "cas orn 48320" ; Times: 1
+	Query: "Oceanodroma homochroa 1897" ; Times: 2
+	Query: "Gavia immer year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "cas 43244" ; Times: 2
+	Query: "cas 38098" ; Times: 2
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "motacilla grandis" ; Times: 1
+	Query: "Pseudomonas" ; Times: 1
+	Query: "class:Aves locality:Socorro country:&#34;Mexico&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 1
+	Query: "cas 65682" ; Times: 1
+	Query: "cas 64120" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "cas 63908" ; Times: 1
+	Query: "CAS 33256" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "genus:Camarhynchus tissue:1" ; Times: 2
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "specificepithet:splendida genus:Neophema tissue:1" ; Times: 1
+	Query: "cas 58876" ; Times: 2
+	Query: "Psittacula kachin" ; Times: 2
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "cas 52543" ; Times: 2
+	Query: "cas 52544" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "cas 65699" ; Times: 1
+	Query: "cas 13639" ; Times: 1
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "cas 45882" ; Times: 2
+	Query: "cas 45884" ; Times: 1
+	Query: "cas 38954" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "CAS 5276" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "aves locality:Revillagigedo year &gt;= 1865 year &lt;= 1900" ; Times: 1
+	Query: "locality:Revillagigedo year &gt;= 1865 year &lt;= 1900" ; Times: 1
+	Query: "Oceanodroma leucorhoa Benito" ; Times: 2
+	Query: "cas 17539" ; Times: 1
+	Query: "cas 34274" ; Times: 2
+	Query: "trogon ambiguus type:specimen" ; Times: 2
+	Query: "cas 63734" ; Times: 1
+	Query: "cas 65623" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "cas 50515" ; Times: 1
+	Query: "cas 13583" ; Times: 2
+	Query: "type:specimen genus:Aratinga (brevipes)" ; Times: 1
+	Query: "cas orn 35513" ; Times: 1
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "cas 2802" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "cas 64648" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-112.507516))&lt;15000" ; Times: 1
+	Query: "Oceanodroma Benito" ; Times: 3
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett institutioncode:CAS" ; Times: 1
+	Query: "aves saussure" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "Henicorhina leucosticta pittieri" ; Times: 1
+	Query: "cas 36155" ; Times: 2
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "San Benito Islands" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 1
+	Query: "locality:cedros stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1904 year &lt;= 1906" ; Times: 1
+	Query: "wilson hawaii" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "cas 62963" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "type:specimen genus:Cacatua order:psittaciformes country:&#34;Papua New Guinea&#34; tissue:1" ; Times: 2
+	Query: "cas 48893" ; Times: 1
+	Query: "cas 50872" ; Times: 1
+	Query: "cas 50871" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Oceanodroma homochroa 1887" ; Times: 1
+	Query: "charadrius county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Salpinctes obsoletus proximus" ; Times: 1
+	Query: "genus:Carpornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "cas 65379" ; Times: 1
+	Query: "CAS 63919" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "cas 40092" ; Times: 1
+	Query: "Alberta Canada bird 2005-2015" ; Times: 1
+	Query: "cas 62935" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "cas 13476" ; Times: 2
+	Query: "habia affinis" ; Times: 2
+	Query: "Aimophila ruficauda" ; Times: 2
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-109.277516))&lt;15000" ; Times: 1
+	Query: "cas 14118" ; Times: 2
+	Query: "MZFC" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "edwards stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1916" ; Times: 1
+	Query: "cas 39118" ; Times: 2
+	Query: "Cyanolyca nana" ; Times: 7
+	Query: "Gypaetus" ; Times: 3
+	Query: "cas 27235" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "cas 55797" ; Times: 1
+	Query: "cas 45332" ; Times: 1
+	Query: "Maximilian" ; Times: 1
+	Query: "genus:Ara institutioncode:CAS" ; Times: 1
+	Query: "euplectes jacksoni" ; Times: 1
+	Query: "anas bahamensis tissue:1" ; Times: 1
+	Query: "cas 80686" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 507 download events in this period)
+Total number of records downloaded: 1309
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 41
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-01 ; Times: 10
+	Date: 2016-01-02 ; Times: 15
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "&#34;Veniliornis nigriceps&#34;" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "type:specimen locality:Buttes county:&#34;Sutter&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
