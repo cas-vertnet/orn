@@ -1,0 +1,220 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1598
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 14
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 35
+	Country: Denmark ; Times: 6
+	Country: France ; Times: 3
+	Country: United States ; Times: 81
+	Country: Malaysia ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 8
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 7
+	Date: 2016-05-12 ; Times: 22
+	Date: 2016-05-11 ; Times: 11
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 9
+	Date: 2016-05-30 ; Times: 7
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 6
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 7
+	Date: 2016-05-26 ; Times: 24
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 6
+	Date: 2016-05-22 ; Times: 7
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 6
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "Myzomela albigula" ; Times: 6
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "genus:Geospiza tissue:1" ; Times: 2
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "Myzomela erythrocephala infuscata" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "specificepithet:caerulea stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "&#34;Santa Barbara Island&#34; AND 1872" ; Times: 1
+	Query: "Emerson Chatham" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "caprimulgus indicus" ; Times: 3
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "Sturnella neglecta AND Santa Cruz Island" ; Times: 2
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "francolinus pintadeanus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Heteroscelus incanus AND San Clemente Island" ; Times: 3
+	Query: "duprey h f" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Pandion AND San Clemente Island" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "nipponia nippon" ; Times: 5
+	Query: "Phalacrocorax penicillatus AND Santa Catalina Island" ; Times: 1
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "Camarhynchus tissue:1" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "Ortygospiza tissue:1" ; Times: 1
+	Query: "CAS 18076" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Eremophila alpestris AND Catalina Island" ; Times: 2
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "Passer domesticus institutioncode:CAS" ; Times: 1
+	Query: "CAS 38138" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Miguel" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "Panda" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 5
+	Query: "57306" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "San Clemente Island AND Pandion" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Henshaw AND Santa Cruz Island" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "Accipiter striatus madrensis" ; Times: 1
+	Query: "genus:quiscalus class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Anas AND Santa Cruz Island" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "CAS 84060" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "Beck AND CAS AND San Miguel Island" ; Times: 1
+	Query: "Sturnella neglecta AND San Miguel Island" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; AND 1941" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "genus:sialia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "specificepithet:fortis genus:Geospiza tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "Cerorhinca monocerata AND Santa Barbara Island" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "1890 AND San Nicolas Island" ; Times: 1
+	Query: "Branta bernicla AND California AND Island" ; Times: 1
+	Query: "specificepithet:pusilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Eremophila alpestris AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "lonchura nana tissue:1" ; Times: 1
+	Query: "CAS 84057" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Barbara Island" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "Emerson 1876" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 327 download events in this period)
+Total number of records downloaded: 2200
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mongolia" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Timaliidae" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
