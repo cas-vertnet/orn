@@ -1,0 +1,1157 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1802
+Number of records retrieved in searches: 17405
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 74
+	Country: Brazil ; Times: 7
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 16
+	Country: Ecuador ; Times: 4
+	Country: Israel ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 4
+	Country: Germany ; Times: 5
+	Country: United States ; Times: 1318
+	Country: Sweden ; Times: 5
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 223
+	Country: Mexico ; Times: 19
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 24
+	Country: Japan ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 53
+	Date: 2018-02-08 ; Times: 80
+	Date: 2018-02-03 ; Times: 10
+	Date: 2018-02-02 ; Times: 40
+	Date: 2018-02-01 ; Times: 44
+	Date: 2018-02-07 ; Times: 58
+	Date: 2018-02-06 ; Times: 72
+	Date: 2018-02-05 ; Times: 61
+	Date: 2018-02-04 ; Times: 25
+	Date: 2018-02-21 ; Times: 148
+	Date: 2018-02-20 ; Times: 156
+	Date: 2018-02-23 ; Times: 86
+	Date: 2018-02-22 ; Times: 14
+	Date: 2018-02-25 ; Times: 182
+	Date: 2018-02-24 ; Times: 101
+	Date: 2018-02-27 ; Times: 260
+	Date: 2018-02-26 ; Times: 148
+	Date: 2018-02-28 ; Times: 21
+	Date: 2018-02-14 ; Times: 29
+	Date: 2018-02-15 ; Times: 26
+	Date: 2018-02-16 ; Times: 62
+	Date: 2018-02-17 ; Times: 13
+	Date: 2018-02-10 ; Times: 7
+	Date: 2018-02-11 ; Times: 15
+	Date: 2018-02-12 ; Times: 28
+	Date: 2018-02-13 ; Times: 43
+	Date: 2018-02-18 ; Times: 7
+	Date: 2018-02-19 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Aix sponsa mappable:1" ; Times: 3
+	Query: "catalognumber:21622 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:&#34;nyctidromus albicollis&#34;" ; Times: 1
+	Query: "locality:Chabot stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:65093 institutioncode:CAS" ; Times: 2
+	Query: "Thalassarche melanophrys" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:63905 institutioncode:CAS" ; Times: 2
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris country:&#34;USA&#34; sex:Male preparations:skin" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "Ara macao Mexico" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "catalognumber:65100 institutioncode:CAS" ; Times: 2
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "carduelis carduelis" ; Times: 1
+	Query: "genus:Prunella hastissue:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; hasmass:1" ; Times: 5
+	Query: "specificepithet:rustica genus:Hirundo hastissue:1" ; Times: 2
+	Query: "Anas undulata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Laridae Washington" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:58059 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 5
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis AND (mass OR weight)" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 2
+	Query: "catalognumber:17531 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:64583 institutioncode:CAS" ; Times: 2
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 4
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:modesta genus:progne country:&#34;ecuador&#34;" ; Times: 1
+	Query: "(66083) institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:crystal springs county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "scientificname:&#34;anas acuta&#34;" ; Times: 1
+	Query: "harbor seal" ; Times: 1
+	Query: "catalognumber:40089 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:12139 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:ventralis genus:Amazona hasmass:1" ; Times: 1
+	Query: "scientificname:&#34;gavia immer&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "Dickey" ; Times: 1
+	Query: "specificepithet:henslowii genus:ammodramus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:tridactylus genus:picoides hasmass:1" ; Times: 2
+	Query: "catalognumber:63899 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13603 institutioncode:CAS" ; Times: 2
+	Query: "Halcyon chloris mappable:1" ; Times: 5
+	Query: "catalognumber:19827 institutioncode:CAS" ; Times: 2
+	Query: "Phoebastria irrorata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:22976 institutioncode:CAS" ; Times: 3
+	Query: "vntype:specimen catalognumber:17928 institutioncode:CAS" ; Times: 1
+	Query: "Euplectes progne mappable:1" ; Times: 4
+	Query: "stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:melodia class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:65725 institutioncode:CAS" ; Times: 2
+	Query: "15928" ; Times: 1
+	Query: "hornemanni exilipes" ; Times: 1
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:93790 institutioncode:CAS" ; Times: 2
+	Query: "molothrus" ; Times: 1
+	Query: "falco columbarius" ; Times: 2
+	Query: "(19137)" ; Times: 1
+	Query: "catalognumber:7690 institutioncode:CAS" ; Times: 4
+	Query: "Mimus gilvus mappable:1" ; Times: 4
+	Query: "vntype:specimen catalognumber:78686 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen catalognumber:27329 institutioncode:CAS" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "aphelocoma hastissue:1" ; Times: 1
+	Query: "catalognumber:21620 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "specificepithet:carolinensis genus:Parus hasmass:1" ; Times: 1
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Garrulax leucolophus mappable:1" ; Times: 3
+	Query: "vntype:specimen catalognumber:1690 institutioncode:CAS" ; Times: 1
+	Query: "Euplectes afer mappable:1" ; Times: 4
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 6
+	Query: "tachycineta bicolor" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 4
+	Query: "Melanitta perspicillata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Somateria spectabilis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:4405 institutioncode:CAS" ; Times: 4
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "distance(location,geopoint(44.0051823975045,-91.5089936295))&lt;7643" ; Times: 4
+	Query: "vntype:specimen catalognumber:84127 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:&#34;arenaria melanocephala&#34;" ; Times: 1
+	Query: "Mvz" ; Times: 1
+	Query: "genus:hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 1
+	Query: "Sphyrapicus ruber placer county" ; Times: 1
+	Query: "catalognumber:19914 institutioncode:CAS" ; Times: 2
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:Guadalupe stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ramphastos sulfuratus mappable:1" ; Times: 4
+	Query: "witch" ; Times: 5
+	Query: "WS vntype:specimen genus: Thryothorus" ; Times: 1
+	Query: "catalognumber:50171 institutioncode:CAS" ; Times: 3
+	Query: "Anas bahamensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "catalognumber:13639 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93795 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:65099 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "catalognumber:21641 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "Slevini" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "catalognumber:4027 institutioncode:CAS" ; Times: 6
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "vntype:specimen catalognumber:71647 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "Bostrychia hagedash mappable:1" ; Times: 4
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 1
+	Query: "catalognumber:63909 institutioncode:CAS" ; Times: 2
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "catalognumber:50054 institutioncode:CAS" ; Times: 2
+	Query: "penelope purpurascens" ; Times: 2
+	Query: "catalognumber:35237 institutioncode:CAS" ; Times: 3
+	Query: "vntype:specimen genus:Meleagris basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "catalognumber:65107 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen genus:Podiceps hastissue:1" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "vntype:specimen catalognumber:10128 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "specificepithet:hypoleucus hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 4
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "catalognumber:39645 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:81582 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:93791 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:58142 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "laridae and washington" ; Times: 1
+	Query: "specificepithet:sacra genus:egretta hastissue:1" ; Times: 1
+	Query: "zosterops pallidus" ; Times: 1
+	Query: "catalognumber:55225 institutioncode:CAS" ; Times: 3
+	Query: "scientificname:&#34;podiceps nigricollis&#34;" ; Times: 1
+	Query: "catalognumber:93797 institutioncode:CAS" ; Times: 2
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "catalognumber:9783 institutioncode:CAS" ; Times: 3
+	Query: "window class:Aves" ; Times: 2
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Lampornis" ; Times: 1
+	Query: "catalognumber:78701 institutioncode:CAS" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "catalognumber:14490 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:65727 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21642 institutioncode:CAS" ; Times: 2
+	Query: "melospiza melodia" ; Times: 3
+	Query: "catalognumber:78696 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen genus:otus hastissue:1 NOT (asio)" ; Times: 1
+	Query: "catalognumber:78687 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 3
+	Query: "scientificname:&#34;circus cyaneus&#34;" ; Times: 1
+	Query: "Oklahoma oklahoma" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 4
+	Query: "Accipiter striatus mappable:1" ; Times: 1
+	Query: "catalognumber:93801 institutioncode:CAS" ; Times: 2
+	Query: "Branta bernicla basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen catalognumber:71645 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:27196 institutioncode:CAS" ; Times: 4
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 2
+	Query: "catalognumber:1804 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:55223 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:65923 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:6415 institutioncode:CAS" ; Times: 5
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "catalognumber:63904 institutioncode:CAS" ; Times: 2
+	Query: "(96783) institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:19096 institutioncode:CAS" ; Times: 2
+	Query: "mus musculus vntype:specimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "catalognumber:40055 institutioncode:CAS" ; Times: 2
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "catalognumber:27277 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 2
+	Query: "catalognumber:23215 institutioncode:CAS" ; Times: 2
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "frank stephens" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "specificepithet:finschi genus:Amazona hasmass:1" ; Times: 1
+	Query: "catalognumber:92263 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:rupestris genus:Monticola hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "locality:chabot park" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "catalognumber:65097 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 4
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "Oceanodroma leucorhoa chapmani basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:1670 institutioncode:CAS" ; Times: 5
+	Query: "catalognumber:93785 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64120 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64193 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21646 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:39195 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 2
+	Query: "Anas clypeata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 5
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "scientificname:&#34;aquila chrysaetos&#34;" ; Times: 1
+	Query: "Vanellus armatus mappable:1" ; Times: 4
+	Query: "10066" ; Times: 1
+	Query: "genus:&#34;colinus&#34;" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "catalognumber:40052 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:44221 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "Anser albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 3
+	Query: "Aratinga holochlora mappable:1" ; Times: 3
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "catalognumber:14488 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:11380 institutioncode:CAS" ; Times: 1
+	Query: "(JPD467) institutioncode:CAS" ; Times: 2
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 1
+	Query: "class:aves country:&#34;solomon&#34; (santa catalina)" ; Times: 1
+	Query: "corvus corax" ; Times: 2
+	Query: "window" ; Times: 3
+	Query: "Ploceus manyar mappable:1" ; Times: 4
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 2
+	Query: "35931" ; Times: 1
+	Query: "Anser serrirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:modesta genus:progne hastissue:1" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "scientificname:&#34;alca torda&#34;" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "aphelocoma coerulescens hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "catalognumber:8890 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:14361 institutioncode:CAS" ; Times: 3
+	Query: "Euplectes franciscanus mappable:1" ; Times: 4
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 4
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Coturnix japonica mappable:1" ; Times: 4
+	Query: "bird nest" ; Times: 1
+	Query: "anderson 1896" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "distance(location,geopoint(44.8282772465001,-94.2789839965))&lt;24347" ; Times: 4
+	Query: "class:aves stateprovince:california" ; Times: 51
+	Query: "catalognumber:65103 institutioncode:CAS" ; Times: 2
+	Query: "dolichonyx oryzivorus" ; Times: 2
+	Query: "scientificname:&#34;oxyura jamaicensis&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:coronata genus:paroaria hasmass:1" ; Times: 1
+	Query: "catalognumber:8099 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64209 institutioncode:CAS" ; Times: 2
+	Query: "tyto alba" ; Times: 1
+	Query: "catalognumber:78893 institutioncode:CAS" ; Times: 1
+	Query: "Amazona albifrons mappable:1" ; Times: 3
+	Query: "specificepithet:pintadeanus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "catalognumber:19095 institutioncode:CAS" ; Times: 3
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "catalognumber:8924 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:65912 institutioncode:CAS" ; Times: 4
+	Query: "vireo huttoni" ; Times: 2
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "preparations:Skull" ; Times: 1
+	Query: "catalognumber:63898 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21634 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:21628 institutioncode:CAS" ; Times: 2
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 1
+	Query: "catalognumber:21645 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:5280 institutioncode:CAS" ; Times: 5
+	Query: "catalognumber:36064 institutioncode:CAS" ; Times: 3
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Amazona ochrocephala mappable:1" ; Times: 3
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "medicine" ; Times: 1
+	Query: "woodward (woodward)" ; Times: 1
+	Query: "vntype:specimen catalognumber:53937 institutioncode:CAS" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "catalognumber:17351 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+	Query: "vntype:specimen catalognumber:64291 institutioncode:CAS" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "catalognumber:47751 institutioncode:CAS" ; Times: 3
+	Query: "megapodius macgillivrayi" ; Times: 3
+	Query: "catalognumber:22975 institutioncode:CAS" ; Times: 3
+	Query: "19848" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 2
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus" ; Times: 1
+	Query: "Alameda County colaptes" ; Times: 1
+	Query: "Fregetta grallaria titan" ; Times: 1
+	Query: "catalognumber:47752 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:6542 institutioncode:CAS" ; Times: 4
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "vntype:specimen catalognumber:7743 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta institutioncode:CAS hasmass:1" ; Times: 2
+	Query: "Chrysolophus pictus mappable:1" ; Times: 4
+	Query: "specificepithet:crissalis genus:pipilo hasmass:1" ; Times: 1
+	Query: "galapagos specificepithet:modesta genus:progne" ; Times: 2
+	Query: "catalognumber:13750 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male preparations:skin" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "catalognumber:6390 institutioncode:CAS" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "gypaetus" ; Times: 1
+	Query: "(96784) institutioncode:CAS" ; Times: 1
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen catalognumber:71646 institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 4
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 3
+	Query: "catalognumber:65094 institutioncode:CAS" ; Times: 2
+	Query: "class:aves locality:glass*" ; Times: 2
+	Query: "catalognumber:10902 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "(Geospiza) institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21631 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:11378 institutioncode:CAS" ; Times: 1
+	Query: "hesperia specificepithet:subis genus:progne" ; Times: 1
+	Query: "catalognumber:64582 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:38957 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:4178 institutioncode:CAS" ; Times: 1
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:40086 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "specificepithet:larvatus genus:oriolus hasmass:1" ; Times: 1
+	Query: "catalognumber:10820 institutioncode:CAS" ; Times: 2
+	Query: "class:Aves catalognumber:74868" ; Times: 1
+	Query: "catalognumber:18792 institutioncode:CAS" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "catalognumber:40960 institutioncode:CAS" ; Times: 3
+	Query: "Oceanites gracilis gracilis" ; Times: 3
+	Query: "vntype:specimen catalognumber:34756 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "catalognumber:10822 institutioncode:CAS" ; Times: 1
+	Query: "Dendragapus obscurus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "catalognumber:85130 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:cyanocephala genus:psittacula hasmass:1" ; Times: 1
+	Query: "meleagris gallopavo" ; Times: 4
+	Query: "specificepithet:niger genus:Cypseloides month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 3
+	Query: "catalognumber:89815 institutioncode:CAS" ; Times: 1
+	Query: "Aythya baeri basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Colaptes (hybrid)" ; Times: 1
+	Query: "catalognumber:56864 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:30922 institutioncode:CAS" ; Times: 3
+	Query: "Berkeley CA" ; Times: 1
+	Query: "Trichoglossus haematodus mappable:1" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "genus:melospiza" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "catalognumber:93788 institutioncode:CAS" ; Times: 3
+	Query: "Chondrohierax u" ; Times: 1
+	Query: "catalognumber:22971 institutioncode:CAS" ; Times: 3
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "Anser rossii mappable:1" ; Times: 5
+	Query: "catalognumber:9782 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:9611 institutioncode:CAS" ; Times: 1
+	Query: "Buteo augur" ; Times: 2
+	Query: "vntype:specimen catalognumber:19275 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:17049 institutioncode:CAS" ; Times: 1
+	Query: "zonotrichia" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 3
+	Query: "specificepithet:modesta genus:progne country:&#34;ecuador&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:63903 institutioncode:CAS" ; Times: 2
+	Query: "Oceanites gracilis galapagoensis" ; Times: 2
+	Query: "specificepithet:sinuatus genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "catalognumber:15119 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 7
+	Query: "catalognumber:64192 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "catalognumber:13476 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:62986 institutioncode:CAS" ; Times: 3
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 5
+	Query: "46181" ; Times: 1
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "vntype:specimen catalognumber:1373 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:11447 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63906 institutioncode:CAS" ; Times: 3
+	Query: "Aplonis metallica mappable:1" ; Times: 4
+	Query: "catalognumber:40051 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:19915 institutioncode:CAS" ; Times: 2
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; country:&#34;CANADA&#34;" ; Times: 2
+	Query: "Oceanites gracilis gracilis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:11379 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:6681 institutioncode:CAS" ; Times: 4
+	Query: "vntype:specimen genus:otus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 4
+	Query: "specificepithet:sericeus genus:orthotomus hasmass:1" ; Times: 1
+	Query: "specificepithet:lincolnii" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "catalognumber:10940 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:55224 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:71230 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:84148 institutioncode:CAS" ; Times: 3
+	Query: "county:&#34;imperial Co.&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:7734 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21632 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:56883 institutioncode:CAS" ; Times: 3
+	Query: "Ara macao mappable:1" ; Times: 3
+	Query: "catalognumber:55227 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:38954 institutioncode:CAS" ; Times: 3
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "genus:parabuteo year &gt;= 10 year &lt;= 1982 month &gt;= 10 month &lt;= 1982" ; Times: 1
+	Query: "catalognumber:64586 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:71612 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:23087 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10821 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:40088 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:&#34;larus philadelphia&#34;" ; Times: 1
+	Query: "catalognumber:40056 institutioncode:CAS" ; Times: 3
+	Query: "condor" ; Times: 1
+	Query: "scorpion" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "catalognumber:62987 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:10130 institutioncode:CAS" ; Times: 1
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "rhipidura kuperi" ; Times: 3
+	Query: "catalognumber:11381 institutioncode:CAS" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "catalognumber:38098 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13587 institutioncode:CAS" ; Times: 3
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "CAS 29115" ; Times: 1
+	Query: "michigan" ; Times: 3
+	Query: "genus:rhipidura class:aves (san cristobal) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:15 institutioncode:CAS" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 2
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "specificepithet:henslowii genus:Ammodramus" ; Times: 1
+	Query: "hornemanni" ; Times: 1
+	Query: "catalognumber:21637 institutioncode:CAS" ; Times: 2
+	Query: "(Prunella) hastissue:1" ; Times: 1
+	Query: "catalognumber:54011 institutioncode:CAS" ; Times: 3
+	Query: "chesapeake" ; Times: 1
+	Query: "catalognumber:11613 institutioncode:CAS" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "catalognumber:65095 institutioncode:CAS" ; Times: 2
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "catalognumber:50354 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:27278 institutioncode:CAS" ; Times: 2
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 4
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "catalognumber:65104 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:38956 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:81530 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "catalognumber:4369 institutioncode:CAS" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lonchura cantans mappable:1" ; Times: 5
+	Query: "genus:&#34;cathartes&#34;" ; Times: 1
+	Query: "butorides frazari" ; Times: 1
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "catalognumber:40053 institutioncode:CAS" ; Times: 3
+	Query: "Numenius madagascariensis" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "catalognumber:14367 institutioncode:CAS" ; Times: 2
+	Query: "Natural History Museum of Los Angeles County" ; Times: 1
+	Query: "Ajaia ajaja mappable:1" ; Times: 4
+	Query: "catalognumber:21633 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "catalognumber:64191 institutioncode:CAS" ; Times: 2
+	Query: "Window" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 1
+	Query: "catalognumber:80919 institutioncode:CAS" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 2
+	Query: "catalognumber:21635 institutioncode:CAS" ; Times: 2
+	Query: "Branta canadensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:65098 institutioncode:CAS" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "cecropis senegalensis" ; Times: 1
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves (woodward)" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 2
+	Query: "toxostoma dumosum" ; Times: 2
+	Query: "scientificname:&#34;anas discors&#34;" ; Times: 1
+	Query: "specificepithet:alnorum genus:Empidonax" ; Times: 1
+	Query: "(California and Los Angeles County)" ; Times: 1
+	Query: "catalognumber:64580 institutioncode:CAS" ; Times: 2
+	Query: "Palsson" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "wing vntype:specimen family:cuculidae" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 1
+	Query: "progne" ; Times: 1
+	Query: "specificepithet:deckeni genus:tockus hasmass:1" ; Times: 1
+	Query: "catalognumber:50355 institutioncode:CAS" ; Times: 2
+	Query: "recordedby:nelson year &gt;= 1905 year &lt;= 1906 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:40085 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64194 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63907 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13584 institutioncode:CAS" ; Times: 3
+	Query: "11297" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;podilymbus podiceps&#34;" ; Times: 1
+	Query: "locality:bois" ; Times: 1
+	Query: "catalognumber:64208 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:65101 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "catalognumber:31621 institutioncode:CAS" ; Times: 3
+	Query: "vntype:specimen catalognumber:4180 institutioncode:CAS" ; Times: 1
+	Query: "scientificname:&#34;corvus corax&#34;" ; Times: 1
+	Query: "catalognumber:93802 institutioncode:CAS" ; Times: 2
+	Query: "class:Aves country:&#34;Zaire&#34;" ; Times: 1
+	Query: "hypsipetes ambiens" ; Times: 2
+	Query: "scientificname:&#34;dendragapus obscurus&#34;" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Don Edwards National Wildlife refuge" ; Times: 1
+	Query: "catalognumber:12567 institutioncode:CAS" ; Times: 1
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:accipitridae preparations:wing" ; Times: 1
+	Query: "catalognumber:8889 institutioncode:CAS" ; Times: 6
+	Query: "vntype:specimen catalognumber:10129 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:13583 institutioncode:CAS" ; Times: 2
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "catalognumber:17539 institutioncode:CAS" ; Times: 2
+	Query: "genus:otus hastissue:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:16292 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:43559 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:37997 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:65726 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "scientificname:&#34;selasphorus rufus&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Conuropsis" ; Times: 2
+	Query: "catalognumber:65109 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21636 institutioncode:CAS" ; Times: 2
+	Query: "&#34;skin study&#34; vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:melospiza haslength:1" ; Times: 1
+	Query: "catalognumber:50346 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13586 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:dominicana genus:paroaria hasmass:1" ; Times: 1
+	Query: "catalognumber:78697 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:1206 institutioncode:CAS" ; Times: 5
+	Query: "sand eels" ; Times: 2
+	Query: "Poeppig" ; Times: 1
+	Query: "catalognumber:7234 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:21638 institutioncode:CAS" ; Times: 2
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "catalognumber:49232 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13585 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 4
+	Query: "catalognumber:43420 institutioncode:CAS" ; Times: 3
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "catalognumber:21643 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:&#34;aythya fuligula&#34;" ; Times: 1
+	Query: "catalognumber:3785 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "vntype:specimen catalognumber:13750 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:64122 institutioncode:CAS" ; Times: 2
+	Query: "Hypsipetes leucocephalus mappable:1" ; Times: 4
+	Query: "vntype:specimen catalognumber:64440 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:12141 institutioncode:CAS" ; Times: 1
+	Query: "melospiza melodia insignis" ; Times: 1
+	Query: "catalognumber:40087 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:10469 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Athene" ; Times: 1
+	Query: "catalognumber:62649 institutioncode:CAS" ; Times: 3
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza haslength:1" ; Times: 2
+	Query: "scientificname:&#34;ortalis  vetula&#34;" ; Times: 1
+	Query: "scientificname:&#34;aix sponsa&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male" ; Times: 1
+	Query: "vntype:specimen catalognumber:80559 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93803 institutioncode:CAS" ; Times: 4
+	Query: "scientificname:&#34;athene cunicularia&#34;" ; Times: 1
+	Query: "Altamont Pass" ; Times: 6
+	Query: "wingspan genus:Troglodytes" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "melospiza" ; Times: 1
+	Query: "catalognumber:31640 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "catalognumber:55226 institutioncode:CAS" ; Times: 2
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Surnia class:Aves" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:30921 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:21639 institutioncode:CAS" ; Times: 2
+	Query: "ptilogonys otofuscus" ; Times: 1
+	Query: "specificepithet:columbarius genus:falco class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:64581 institutioncode:CAS" ; Times: 5
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "catalognumber:91624 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:1662 institutioncode:CAS" ; Times: 5
+	Query: "catalognumber:19871 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Euplectes orix mappable:1" ; Times: 4
+	Query: "catalognumber:21623 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:19216 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:44220 institutioncode:CAS" ; Times: 3
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "Gulls" ; Times: 1
+	Query: "catalognumber:17915 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:19725 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "county:&#34;Rockingham&#34; stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "catalognumber:93792 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Phoebastria" ; Times: 1
+	Query: "catalognumber:1667 institutioncode:CAS" ; Times: 5
+	Query: "catalognumber:5233 institutioncode:CAS" ; Times: 7
+	Query: "Lonchura striata mappable:1" ; Times: 4
+	Query: "catalognumber:65102 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:66389 institutioncode:CAS" ; Times: 3
+	Query: "rodent" ; Times: 3
+	Query: "iowa city" ; Times: 3
+	Query: "catalognumber:93798 institutioncode:CAS" ; Times: 2
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "catalognumber:78706 institutioncode:CAS" ; Times: 2
+	Query: "Leiothrix lutea mappable:1" ; Times: 4
+	Query: "catalognumber:98551 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:finschii genus:psittacula hasmass:1" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Icterus hasmass:1" ; Times: 1
+	Query: "catalognumber:91623 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:40084 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen catalognumber:11895 institutioncode:CAS" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Worcester year &gt;= 1890 year &lt;= 1893" ; Times: 1
+	Query: "catalognumber:65096 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:19181 institutioncode:CAS" ; Times: 1
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:17048 institutioncode:CAS" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 5
+	Query: "catalognumber:22969 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:55233 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Carduelis hornemanni minnesota" ; Times: 1
+	Query: "catalognumber:23216 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:19916 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93787 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "catalognumber:58119 institutioncode:CAS" ; Times: 3
+	Query: "manatee" ; Times: 1
+	Query: "vntype:specimen catalognumber:13053 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:91630 institutioncode:CAS" ; Times: 3
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "catalognumber:63900 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:4095 institutioncode:CAS" ; Times: 4
+	Query: "vntype:specimen catalognumber:22917 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen catalognumber:71624 institutioncode:CAS" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "catalognumber:21629 institutioncode:CAS" ; Times: 2
+	Query: "nucifraga" ; Times: 1
+	Query: "Podilymbus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "San Joaquin river" ; Times: 2
+	Query: "vireo bellii" ; Times: 1
+	Query: "catalognumber:71332 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen preparations:sKULL" ; Times: 1
+	Query: "vntype:specimen catalognumber:86121 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93794 institutioncode:CAS" ; Times: 2
+	Query: "Calocitta colliei" ; Times: 6
+	Query: "catalognumber:93800 institutioncode:CAS" ; Times: 2
+	Query: "riparia" ; Times: 2
+	Query: "1322" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 1
+	Query: "catalognumber:6419 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:10764 institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 11
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "catalognumber:4158 institutioncode:CAS" ; Times: 4
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "catalognumber:11574 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64195 institutioncode:CAS" ; Times: 2
+	Query: "(96782) institutioncode:CAS" ; Times: 2
+	Query: "distance(location,geopoint(44.7957518880001,-91.7466035155))&lt;14610" ; Times: 4
+	Query: "catalognumber:65105 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "pelt" ; Times: 1
+	Query: "catalognumber:7691 institutioncode:CAS" ; Times: 2
+	Query: "rattlesnake" ; Times: 2
+	Query: "Eudocimus albus Florida" ; Times: 1
+	Query: "catalognumber:65728 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:65106 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93799 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "catalognumber:385 institutioncode:CAS" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 4
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "tyto alba-ecuador" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "catalognumber:9907 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "catalognumber:22974 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:6509 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:64127 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:43426 institutioncode:CAS" ; Times: 3
+	Query: "Lophotis ruficrista" ; Times: 2
+	Query: "catalognumber:63908 institutioncode:CAS" ; Times: 2
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "Aix sponsa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "prunella" ; Times: 3
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "scientificname:&#34;fulmarus glacialis&#34;" ; Times: 1
+	Query: "catalognumber:40083 institutioncode:CAS" ; Times: 2
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "catalognumber:64584 institutioncode:CAS" ; Times: 2
+	Query: "lamprey" ; Times: 1
+	Query: "catalognumber:21630 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:38439 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:9781 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:aberti genus:pipilo hasmass:1" ; Times: 1
+	Query: "genus:Cathartes institutioncode:CAS" ; Times: 1
+	Query: "genus:Hirundo hastissue:1" ; Times: 1
+	Query: "catalognumber:21619 institutioncode:CAS" ; Times: 2
+	Query: "progne modesta" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "catalognumber:93796 institutioncode:CAS" ; Times: 2
+	Query: "13778" ; Times: 1
+	Query: "altamont pass" ; Times: 2
+	Query: "catalognumber:11351 institutioncode:CAS" ; Times: 1
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "specificepithet:bicolor genus:Tachycineta institutioncode:CAS hasmass:1" ; Times: 1
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "vntype:specimen catalognumber:9039 institutioncode:CAS" ; Times: 1
+	Query: "Aratinga nana mappable:1" ; Times: 3
+	Query: "catalognumber:63897 institutioncode:CAS" ; Times: 3
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "Philetairus socius" ; Times: 1
+	Query: "catalognumber:64196 institutioncode:CAS" ; Times: 3
+	Query: "county:&#34;Rockingham&#34; stateprovince:&#34;New Hampshire&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "scientificname:&#34;anas crecca&#34;" ; Times: 1
+	Query: "slevini" ; Times: 1
+	Query: "catalognumber:21625 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:34683 institutioncode:CAS" ; Times: 4
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis" ; Times: 1
+	Query: "hornemanni exilipes minnesota" ; Times: 2
+	Query: "catalognumber:43529 institutioncode:CAS" ; Times: 3
+	Query: "mice" ; Times: 1
+	Query: "catalognumber:63902 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:57555 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:21626 institutioncode:CAS" ; Times: 3
+	Query: "Orn" ; Times: 1
+	Query: "catalognumber:78705 institutioncode:CAS" ; Times: 3
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "specificepithet:henslowii" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 7
+	Query: "catalognumber:21661 institutioncode:CAS" ; Times: 2
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "peucedramus jaliscensis" ; Times: 1
+	Query: "specificepithet:townsendi genus:myadestes" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "catalognumber:6521 institutioncode:CAS" ; Times: 5
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "catalognumber:21766 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:65724 institutioncode:CAS" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "catalognumber:64121 institutioncode:CAS" ; Times: 2
+	Query: "hornemanni hornemanni minnesota" ; Times: 1
+	Query: "catalognumber:65108 institutioncode:CAS" ; Times: 2
+	Query: "bubulcus ibis" ; Times: 13
+	Query: "scientificname:&#34;chen  caerulescens&#34;" ; Times: 1
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Todiramphus chloris mappable:1" ; Times: 3
+	Query: "Anas cyanoptera basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "vntype:specimen catalognumber:1110 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "5020" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 2
+	Query: "genus:Protonotaria" ; Times: 1
+	Query: "catalognumber:21627 institutioncode:CAS" ; Times: 2
+	Query: "&#34;corvus corax&#34; vntype:specimen year &gt;= 1920 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 4
+	Query: "vntype:specimen catalognumber:13744 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 2
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 4
+	Query: "1185" ; Times: 1
+	Query: "catalognumber:62985 institutioncode:CAS" ; Times: 2
+	Query: "genus:cecropis OR hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 1
+	Query: "catalognumber:4372 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:19872 institutioncode:CAS" ; Times: 2
+	Query: "lamprey vntype:specimen" ; Times: 1
+	Query: "catalognumber:10886 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:64585 institutioncode:CAS" ; Times: 2
+	Query: "strix lucida" ; Times: 1
+	Query: "myadestes calophonus" ; Times: 1
+	Query: "Sparrow" ; Times: 1
+	Query: "catalognumber:38955 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64210 institutioncode:CAS" ; Times: 3
+	Query: "progne subis hesperia" ; Times: 3
+	Query: "catalognumber:4052 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:1207 institutioncode:CAS" ; Times: 4
+	Query: "Icterus pectoralis mappable:1" ; Times: 4
+	Query: "catalognumber:21624 institutioncode:CAS" ; Times: 2
+	Query: "class:Aves recordedby:Palsson" ; Times: 8
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 201 (out of 1892 download events in this period)
+Total number of records downloaded: 38488
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 28
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 146
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 6
+	Date: 2018-02-08 ; Times: 6
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 18
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 27
+	Date: 2018-02-05 ; Times: 37
+	Date: 2018-02-04 ; Times: 4
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 15
+	Date: 2018-02-23 ; Times: 8
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-24 ; Times: 8
+	Date: 2018-02-27 ; Times: 7
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-14 ; Times: 5
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 5
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:plumifera genus:Geophaps" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Icterus hasmass:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:tridactylus genus:picoides hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:coronata genus:paroaria hasmass:1" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 8
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:melodia kenaiensis genus:melospiza" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 4
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:otus hastissue:1 NOT (asio)" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:aberti genus:pipilo hasmass:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "genus:hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:melodia caurina genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:cyanomitra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "specificepithet:deckeni genus:tockus hasmass:1" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "specificepithet:crissalis genus:pipilo hasmass:1" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:rufinucha genus:campylorhynchus hasmass:1" ; Times: 2
+	Query: "Bourns" ; Times: 1
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Geospiza) institutioncode:CAS" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:melodia gouldii genus:melospiza" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta institutioncode:CAS hasmass:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "class:Aves country:&#34;Guinea&#34; AND (NOT Papua New Guinea)" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "county:&#34;Rockingham&#34; stateprovince:&#34;New Hampshire&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "specificepithet:melodia sanaka genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:larvatus genus:oriolus hasmass:1" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:psittacula hasmass:1" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "class:Aves country:&#34;Zaire&#34;" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:melodia insignis genus:melospiza" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:finschi genus:Amazona hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:sericeus genus:orthotomus hasmass:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "specificepithet:corvina genus:Sporophila" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+
+
+End of report.
