@@ -1,0 +1,436 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 726
+Number of records retrieved in searches: 18358
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 17
+	Country: Unknown ; Times: 22
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 5
+	Country: Iran ; Times: 2
+	Country: China ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: United States ; Times: 285
+	Country: Sweden ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 326
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 16
+	Date: 2018-09-23 ; Times: 30
+	Date: 2018-09-02 ; Times: 5
+	Date: 2018-09-03 ; Times: 16
+	Date: 2018-09-26 ; Times: 42
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-20 ; Times: 60
+	Date: 2018-09-21 ; Times: 22
+	Date: 2018-09-22 ; Times: 7
+	Date: 2018-09-05 ; Times: 33
+	Date: 2018-09-08 ; Times: 7
+	Date: 2018-09-09 ; Times: 3
+	Date: 2018-09-28 ; Times: 8
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-30 ; Times: 11
+	Date: 2018-09-11 ; Times: 15
+	Date: 2018-09-10 ; Times: 9
+	Date: 2018-09-13 ; Times: 16
+	Date: 2018-09-12 ; Times: 20
+	Date: 2018-09-15 ; Times: 11
+	Date: 2018-09-14 ; Times: 12
+	Date: 2018-09-17 ; Times: 66
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-19 ; Times: 19
+	Date: 2018-09-18 ; Times: 45
+	Date: 2018-09-24 ; Times: 156
+	Date: 2018-09-25 ; Times: 38
+	Date: 2018-09-27 ; Times: 7
+	Date: 2018-09-06 ; Times: 17
+	Date: 2018-09-07 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Pterophanes" ; Times: 3
+	Query: "5178" ; Times: 1
+	Query: "specificepithet:americanus genus:Numenius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:13929 institutioncode:CAS" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "class:aves recordedby:mearns" ; Times: 1
+	Query: "nucifraga" ; Times: 1
+	Query: "Egretta thula" ; Times: 11
+	Query: "class:aves hasmass:1" ; Times: 1
+	Query: "catalognumber:90151 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "lagopus lagopus" ; Times: 15
+	Query: "county:&#34;riverside&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "class:Aves recordedby:Dean" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "corvus corax" ; Times: 31
+	Query: "Oxyura jamaicensis jamaicensis" ; Times: 1
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Leiothrix lutea vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "oriturus superciliosus stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "Lamprolaima" ; Times: 1
+	Query: "lanius" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 4
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 distance(location,geopoint(38.377305289415474,-121.01827660558115))&lt;72225" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "specificepithet:stricklandi genus:Picoides" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 6
+	Query: "malacoptila fusca" ; Times: 5
+	Query: "14840" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "class:aves hasmass:1 hastissue:1" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 24
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 4
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "September stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "genus:buteo" ; Times: 1
+	Query: "CAS quinticolor" ; Times: 4
+	Query: "laterallus" ; Times: 1
+	Query: "distance(location,geopoint(38.377305289415474,-121.01827660558115))&lt;13742" ; Times: 1
+	Query: "cliff new mexico" ; Times: 1
+	Query: "county:&#34;los angeles&#34; year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:emiliana genus:macropygia hasmass:1" ; Times: 2
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 62
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "Thurber" ; Times: 2
+	Query: "wingspan vntype:specimen genus:Ammodramus" ; Times: 1
+	Query: "Catoptrophorus minnesota" ; Times: 4
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "recordedby:Saunders" ; Times: 2
+	Query: "collectioncode:orn institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "sturnella" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "ORN blood" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "caurina specificepithet:occidentalis genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 38
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "anodorhynchus hyacinthinus skeleton" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "Progne modesta" ; Times: 5
+	Query: "Heliangelus cas" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:chloris genus:todiramphus hasmass:1" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "CAS 92676" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "country:&#34;Brazil&#34; collectioncode:orn institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "43204" ; Times: 1
+	Query: "specificepithet:manadensis genus:turacoena hasmass:1" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LAGOPUS LAGOPUS" ; Times: 3
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "genus:rhipidura class:aves (samoa)" ; Times: 1
+	Query: "genus:Mimus sex:female" ; Times: 4
+	Query: "CAMPEPHILUS PRINCIPALIS" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Chapman" ; Times: 1
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "malacoptila" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "frozen tissues" ; Times: 1
+	Query: "CAS 95949" ; Times: 1
+	Query: "hasmass:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes hastissue:1" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 8
+	Query: "CAS 96888" ; Times: 1
+	Query: "Cyanocitta stelleri" ; Times: 3
+	Query: "Zosterops japonicus hastissue:1" ; Times: 2
+	Query: "catalognumber:28502 institutioncode:CAS" ; Times: 1
+	Query: "passerculus" ; Times: 1
+	Query: "CAS 4977" ; Times: 2
+	Query: "catalognumber:9346 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:stelleri genus:cyanocitta hastissue:1" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "Kaeding Island" ; Times: 3
+	Query: "country:&#34;Mexico&#34; recordedby:dwight" ; Times: 2
+	Query: "county:&#34;orange&#34; stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "Acatlan puebla" ; Times: 3
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "CAS 10795" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 1
+	Query: "MELANERPES ERYTHROCEPHALUS" ; Times: 1
+	Query: "60204 class:Aves" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "country:&#34;USA&#34; Pavo cristatus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "Pycnonotus jocosus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Calidris pusilla" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Zosterops japonicus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1850" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "calcarius pictus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 3
+	Query: "cinclus cinclus" ; Times: 1
+	Query: "egretta thula" ; Times: 7
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "calypte anna year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "polioptila pontilis" ; Times: 1
+	Query: "CAS 95706" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "zoothera salimalii" ; Times: 1
+	Query: "cinclus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes" ; Times: 1
+	Query: "&#34;Osgood&#34;" ; Times: 1
+	Query: "Guadalupe Island 1898" ; Times: 2
+	Query: "recordedby:Karen" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 2
+	Query: "Icterus" ; Times: 3
+	Query: "county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "continent:Asia hastissue:1" ; Times: 1
+	Query: "preparations:skull" ; Times: 1
+	Query: "recordedby:worthen" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "specificepithet:tinnunculus genus:falco hasmass:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 9
+	Query: "sturnella neglecta" ; Times: 36
+	Query: "Farallon 1902" ; Times: 2
+	Query: "Farallon 1903" ; Times: 3
+	Query: "Farallon 1900" ; Times: 1
+	Query: "Farallon 1901" ; Times: 2
+	Query: "Farallon 1906" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Couch" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 28
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 15
+	Query: "specificepithet:passerina genus:Spizella hastissue:1" ; Times: 1
+	Query: "specificepithet:tahitica genus:hirundo class:aves" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "(yaqui)" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "Guadalupe Island 1899" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 4
+	Query: "specificepithet:serripennis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diomedea exulans skeleton vntype:specimen hassex:1" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "11240" ; Times: 1
+	Query: "Guadalupe Island 1896" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 3
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 30
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 3
+	Query: "aegithalos concinnus hastissue:1" ; Times: 1
+	Query: "CAS 90096" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 18
+	Query: "specificepithet:minor genus:Chordeiles basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "habia affinis" ; Times: 3
+	Query: "diomedeidae skeleton" ; Times: 2
+	Query: "specificepithet:speciosa genus:geothlypis" ; Times: 1
+	Query: "selasphorus rufus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Aimophila" ; Times: 1
+	Query: "class:Aves locality:Pasadena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "cave san francisco" ; Times: 1
+	Query: "Iole virescens" ; Times: 3
+	Query: "cyanocitta stelleri" ; Times: 2
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:rubidiventris genus:parus" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "mzfc" ; Times: 1
+	Query: "Pachycephala Guadalcanal" ; Times: 3
+	Query: "chordeiles minor" ; Times: 1
+	Query: "sicalis mexicana" ; Times: 1
+	Query: "ara macao" ; Times: 16
+	Query: "genus:buteo basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "Accipiter striatus mappable:1" ; Times: 6
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Lamb year &gt;= 1927 year &lt;= 1927 month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "33106" ; Times: 1
+	Query: "genus:rhipidura class:aves (samoa) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "loxia leucoptera" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "acatlan puebla" ; Times: 5
+	Query: "Natural History Museum of Los Angeles" ; Times: 1
+	Query: "CAS 92706" ; Times: 1
+	Query: "x vntype:specimen class:Aves" ; Times: 4
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "CAS 96855" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "specificepithet:darjellensis genus:dendrocopos" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Lagopus lagopus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 846 download events in this period)
+Total number of records downloaded: 39463
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 26
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Philippines ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Norway ; Times: 4
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 7
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "recordedby:John Koran year &gt;= 1910 year &lt;= 1912" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "recordedby:Koran year &gt;= 1911 year &lt;= 1912" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "recordedby:Koren" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "recordedby:John Koran year &gt;= 1912 year &lt;= 1950" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "hassex:1" ; Times: 1
+	Query: "haslifestage:1" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:iliaca stateprovince:&#34;Maine&#34;" ; Times: 1
+
+
+End of report.
