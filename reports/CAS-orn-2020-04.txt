@@ -1,0 +1,947 @@
+Report for Institution Code CAS, Resource orn
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2436
+Number of records retrieved in searches: 76390
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: Brazil ; Times: 10
+	Country: Qatar ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Ireland ; Times: 8
+	Country: Unknown ; Times: 31
+	Country: Nepal ; Times: 2
+	Country: France ; Times: 7
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Brunei ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: China ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Germany ; Times: 9
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 412
+	Country: Sweden ; Times: 30
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Cuba ; Times: 4
+	Country: India ; Times: 34
+	Country: United Kingdom ; Times: 1823
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 579
+	Date: 2020-04-04 ; Times: 6
+	Date: 2020-04-23 ; Times: 11
+	Date: 2020-04-06 ; Times: 41
+	Date: 2020-04-22 ; Times: 11
+	Date: 2020-04-05 ; Times: 7
+	Date: 2020-04-20 ; Times: 19
+	Date: 2020-04-07 ; Times: 702
+	Date: 2020-04-26 ; Times: 19
+	Date: 2020-04-01 ; Times: 20
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-25 ; Times: 6
+	Date: 2020-04-28 ; Times: 39
+	Date: 2020-04-29 ; Times: 21
+	Date: 2020-04-08 ; Times: 182
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-27 ; Times: 30
+	Date: 2020-04-02 ; Times: 7
+	Date: 2020-04-03 ; Times: 296
+	Date: 2020-04-19 ; Times: 31
+	Date: 2020-04-18 ; Times: 39
+	Date: 2020-04-13 ; Times: 29
+	Date: 2020-04-12 ; Times: 6
+	Date: 2020-04-11 ; Times: 9
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 61
+	Date: 2020-04-16 ; Times: 41
+	Date: 2020-04-15 ; Times: 24
+	Date: 2020-04-14 ; Times: 162
+	Date: 2020-04-30 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:3471 institutioncode:CAS" ; Times: 2
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Platalea leucorodia" ; Times: 2
+	Query: "specificepithet:orix genus:Euplectes hastissue:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 4
+	Query: "Anas acuta" ; Times: 13
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "genus:Melopsittacus hastissue:1" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "&#34;Asuncion Island&#34;" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 5
+	Query: "Zenaida macroura" ; Times: 3
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "San Martin AND Wright" ; Times: 1
+	Query: "specificepithet:aurantius genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 8
+	Query: "asio flammeus" ; Times: 3
+	Query: "Buteo jamaicensis harlani" ; Times: 7
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "Hypsipetes amaurotis" ; Times: 4
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "rallus striatus" ; Times: 2
+	Query: "specificepithet:ardens genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "Wright AND San Martin Island" ; Times: 2
+	Query: "Lake Van" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "genus:Anser haslength:1" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Pituophis NOT Elgaria NOT Salpinctes NOT Elegaria NOT Uta" ; Times: 1
+	Query: "Puffinus griseus" ; Times: 3
+	Query: "specificepithet:melanogaster genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Gymnogyps californianus" ; Times: 7
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Amphispiza" ; Times: 2
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Ardea alba" ; Times: 9
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Phalaropus lobatus" ; Times: 6
+	Query: "Larus argentatus" ; Times: 5
+	Query: "stateprovince:&#34;Illinois&#34;" ; Times: 3
+	Query: "Catreus wallichii" ; Times: 3
+	Query: "Dives dives" ; Times: 2
+	Query: "rats" ; Times: 1
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 4
+	Query: "Buteo japonicus" ; Times: 4
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "grasshopper" ; Times: 1
+	Query: "Apus melba" ; Times: 7
+	Query: "specificepithet:henslowii class:aves" ; Times: 1
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "San Martin Baja AND Anthony" ; Times: 1
+	Query: "Ficedula zanthopygia" ; Times: 5
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "Lake Ring" ; Times: 2
+	Query: "chicago" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "catalognumber:14579 institutioncode:CAS" ; Times: 1
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "L. canus" ; Times: 6
+	Query: "catalognumber:17272 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Certhia discolor india" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Aphelocoma californica" ; Times: 2
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "Balaeniceps rex" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:socius genus:Philetairus hastissue:1" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Tragopan temminckii" ; Times: 7
+	Query: "witch" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Phalacrocorax penicillatus" ; Times: 4
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 4
+	Query: "Passerina amoena" ; Times: 10
+	Query: "Ciconia boyciana" ; Times: 4
+	Query: "H.W. Wright AND San Martin Island" ; Times: 1
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "15034" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 4
+	Query: "raccoon" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 4
+	Query: "San Martin Baja AND Crocker NOT ICH" ; Times: 1
+	Query: "catalognumber:82351 institutioncode:CAS" ; Times: 2
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "Crax daubentoni" ; Times: 7
+	Query: "Pipilo maculatus" ; Times: 3
+	Query: "Eophona personata" ; Times: 8
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Pica pica" ; Times: 4
+	Query: "Ficedula albicilla" ; Times: 9
+	Query: "county:&#34;York&#34;" ; Times: 1
+	Query: "Sporopipes frontalis" ; Times: 8
+	Query: "specificepithet:capensis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "Larus marinus" ; Times: 5
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "coturnix chinensis" ; Times: 2
+	Query: "Pitta brachyura india" ; Times: 1
+	Query: "Branta canadensis" ; Times: 5
+	Query: "specificepithet:xanthonotus genus:oriolus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "(49096)" ; Times: 1
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Rhea americana" ; Times: 3
+	Query: "genus:catharus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "specificepithet:obscurus genus:Myadestes" ; Times: 2
+	Query: "41044" ; Times: 2
+	Query: "catalognumber:23509 institutioncode:CAS" ; Times: 4
+	Query: "Molothrus aeneus" ; Times: 2
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 2
+	Query: "pavo cristatus" ; Times: 8
+	Query: "Charadrius placidus" ; Times: 1
+	Query: "recordedby:price year &gt;= 1896 year &lt;= 1897" ; Times: 2
+	Query: "passerculus sandwichensis rostratus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "specificepithet:madagascariensis genus:Foudia hastissue:1" ; Times: 1
+	Query: "specificepithet:subaureus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "skeleton specificepithet:minor family:phoenicopteridae" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck AND Martin AND 1905 NOT Amphispiza" ; Times: 1
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "specificepithet:nigricollis genus:podiceps (skeleton)" ; Times: 1
+	Query: "Wright AND Coronados AND Oceanodroma AND CAS" ; Times: 1
+	Query: "Picoides tridactylus" ; Times: 1
+	Query: "specificepithet:progne genus:Euplectes hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus lagopus genus:Buteo" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "catalognumber:30723 institutioncode:CAS" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "Seicercus burkii" ; Times: 4
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "catalognumber:25309 institutioncode:CAS" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "genus:catharus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "stateprovince:new mexico" ; Times: 5
+	Query: "(49095)" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Molothrus ater" ; Times: 2
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "F. corniculata" ; Times: 6
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Gardner" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Ortalis cinereiceps" ; Times: 3
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "Cardinalis sinuatus sex:Male hastissue:1" ; Times: 2
+	Query: "Anas formosa" ; Times: 13
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "habia affinis" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 9
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "Fringilla montifringilla" ; Times: 5
+	Query: "Coturnix japonica" ; Times: 5
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Selasphorus rufus" ; Times: 3
+	Query: "Hirundo rustica" ; Times: 7
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Aceros waldeni" ; Times: 4
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "Anas platyrhynchos lifestage:immature sex:male AND (NOT diazi)" ; Times: 1
+	Query: "O. virginianus" ; Times: 2
+	Query: "Phylloscopus forresti" ; Times: 4
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "catalognumber:43608 institutioncode:CAS" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 3
+	Query: "Grus antigone" ; Times: 7
+	Query: "Oceanodroma furcata furcata" ; Times: 1
+	Query: "Deer" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "parabuteo" ; Times: 1
+	Query: "Mergus merganser" ; Times: 5
+	Query: "cardinalis sinuatus peninsulae" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "catalognumber:11774 institutioncode:CAS" ; Times: 2
+	Query: "genus:Foudia hastissue:1" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "23208" ; Times: 1
+	Query: "genus:antilophia" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck" ; Times: 2
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "38543" ; Times: 1
+	Query: "genus:branta stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Elgaria NOT Uta" ; Times: 1
+	Query: "specificepithet:roseicollis genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Vireo gilvus swainsoni" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Geotrygon versicolor" ; Times: 3
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Buteo hemilasius" ; Times: 6
+	Query: "catalognumber:51460 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:baglafecht genus:Ploceus hastissue:1" ; Times: 1
+	Query: "specificepithet:malimbicus genus:Malimbus hastissue:1" ; Times: 1
+	Query: "wing collection" ; Times: 1
+	Query: "Oceanodroma furcata" ; Times: 1
+	Query: "7752" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "Catharus guttatus" ; Times: 5
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "genus:Bubo" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Turdus migratorius" ; Times: 13
+	Query: "Drepanornis albertisi" ; Times: 17
+	Query: "Vireo gilvus AND (NOT swainsonii)" ; Times: 1
+	Query: "catalognumber:96138 institutioncode:CAS" ; Times: 2
+	Query: "&#34;Molothrus ater obscurus&#34;" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Anas diazi" ; Times: 3
+	Query: "CAS-62694" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Gallinago nigripennis" ; Times: 6
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "baja california sur molothrus" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Quelea hastissue:1" ; Times: 1
+	Query: "San Martin Baja AND Gifford" ; Times: 2
+	Query: "(18647)" ; Times: 2
+	Query: "catalognumber:19828 institutioncode:CAS" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 6
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "&#34;Asuncion Island&#34; NOT Castro NOT Mariana" ; Times: 1
+	Query: "cardinalis sinuatus sinuatus" ; Times: 2
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "Mitu tuberosa" ; Times: 3
+	Query: "specificepithet:dinemelli genus:Dinemellia hastissue:1" ; Times: 2
+	Query: "(18677)" ; Times: 1
+	Query: "Sturnella magna" ; Times: 2
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "Pluvialis dominica" ; Times: 2
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Chauvin" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 15
+	Query: "Amazilia viridifrons" ; Times: 3
+	Query: "Mus musculus" ; Times: 7
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Anser indicus" ; Times: 5
+	Query: "Loxia curvirostra" ; Times: 3
+	Query: "Haliaeetus pelagicus" ; Times: 7
+	Query: "Rallus aquaticus" ; Times: 4
+	Query: "Amphispiza belli belli" ; Times: 1
+	Query: "Anser albifrons" ; Times: 10
+	Query: "specificepithet:petechia country:&#34;el salvador&#34; hastissue:1" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 6
+	Query: "bonasa umbellus" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "Sturnus vulgaris" ; Times: 9
+	Query: "Apus pacificus" ; Times: 8
+	Query: "12876" ; Times: 1
+	Query: "Motacilla alba" ; Times: 5
+	Query: "genus:psittacus hastissue:1" ; Times: 1
+	Query: "Spizella passerina" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 2
+	Query: "90115" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 2
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "Cistothorus palustris Baja California Sur" ; Times: 1
+	Query: "Vireo gilvus gilvus" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 5
+	Query: "Chordeiles minor" ; Times: 4
+	Query: "Hypsipetes philippinus" ; Times: 4
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "genus:limosa stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Larus heermanni" ; Times: 6
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "buteo lagopus lagopus" ; Times: 2
+	Query: "Piranga flava" ; Times: 5
+	Query: "catalognumber:78115 institutioncode:CAS" ; Times: 2
+	Query: "Xema sabini" ; Times: 6
+	Query: "Tarsiger cyanurus" ; Times: 4
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Buteo jamaicensis harlani California" ; Times: 1
+	Query: "Branta bernicla" ; Times: 5
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Columba rupestris" ; Times: 3
+	Query: "specificepithet:jacksoni genus:Ploceus hastissue:1" ; Times: 1
+	Query: "zosterops richmondi" ; Times: 1
+	Query: "genus:Tyto catalognumber:96072" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "catalognumber:28384 institutioncode:CAS" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "Emberiza bruniceps India" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "5215" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Wright AND San Martin" ; Times: 1
+	Query: "catalognumber:10082 institutioncode:CAS" ; Times: 3
+	Query: "13890" ; Times: 2
+	Query: "Tragopan blythii" ; Times: 2
+	Query: "skulls" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 7
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "P. aleuticus" ; Times: 6
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "Psaltriparus minimus" ; Times: 2
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Dendrocitta formosae" ; Times: 9
+	Query: "campephilus" ; Times: 1
+	Query: "Rita rita" ; Times: 3
+	Query: "specificepithet:spekei genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Phalacrocorax bougainvillii" ; Times: 4
+	Query: "Anas platyrhynchos sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Criniger phaeocephalus" ; Times: 4
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Bambusicola fytchii" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Phalacrocorax NOT Pituophis NOT Elgaria NOT Salpinctes NOT Elegaria NOT Uta" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 14
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 4
+	Query: "Netta rufina" ; Times: 6
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "catalognumber:19829 institutioncode:CAS" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "institutioncode:CAS Junco hyemalis" ; Times: 1
+	Query: "Anser" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 15
+	Query: "Calidris canutus" ; Times: 3
+	Query: "Himantopus himantopus" ; Times: 2
+	Query: "specificepithet:petechia country:&#34;ecuador&#34; hastissue:1" ; Times: 3
+	Query: "chicken" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Corvus corone" ; Times: 9
+	Query: "specificepithet:mahali genus:Plocepasser hastissue:1" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Anas strepera" ; Times: 13
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "10578 BEST" ; Times: 2
+	Query: "San Martin Baja AND Beck" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 5
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Colibri thalassinus hasmass:1" ; Times: 2
+	Query: "Pelecanus occidentalis" ; Times: 7
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "specificepithet:donaldsoni genus:Plocepasser hastissue:1" ; Times: 1
+	Query: "Calidris fuscicollis" ; Times: 1
+	Query: "catalognumber:93777 institutioncode:CAS" ; Times: 2
+	Query: "Catharus guttatus minnesota" ; Times: 1
+	Query: "catalognumber:99901 institutioncode:CAS" ; Times: 2
+	Query: "Wright AND CAS 74129" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 5
+	Query: "specificepithet:hartlaubi genus:Euplectes hastissue:1" ; Times: 1
+	Query: "catalognumber:5942 institutioncode:CAS" ; Times: 1
+	Query: "Larus atricilla" ; Times: 6
+	Query: "cardinalis sinuatus" ; Times: 1
+	Query: "C. psittacula" ; Times: 6
+	Query: "m george w" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 1
+	Query: "CAS-62610" ; Times: 1
+	Query: "Terpsiphone viridis" ; Times: 4
+	Query: "Aegithalos bonvaloti" ; Times: 4
+	Query: "Cyanopica cyanus" ; Times: 8
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "gypaetus" ; Times: 2
+	Query: "Anas crecca" ; Times: 13
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck AND Martin NOT 1903 NOT Amphispiza" ; Times: 1
+	Query: "Buteo jamaicensis krideri" ; Times: 1
+	Query: "catalognumber:16993 institutioncode:CAS" ; Times: 2
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Fulica americana" ; Times: 3
+	Query: "dendroica castanea" ; Times: 3
+	Query: "Agelaius phoeniceus" ; Times: 4
+	Query: "Anas americana" ; Times: 11
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "red panda" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "catalognumber:9336 institutioncode:CAS" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 15
+	Query: "Hatch Utah" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Icterus galbula" ; Times: 4
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Aythya americana" ; Times: 4
+	Query: "year &gt;= 1960 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "&#34;Asuncion Island&#34; NOT Castro" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "Todus todus" ; Times: 3
+	Query: "vntype:specimen genus:Philortyx" ; Times: 2
+	Query: "vermivora celata vntype:specimen hastissue:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Wright AND CAS 75836" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "San Martin Baja AND Hunter" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 2
+	Query: "caprimulgus" ; Times: 1
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "Anser anser" ; Times: 10
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck AND Salpinctes" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 4
+	Query: "oceanodroma leucorhoa" ; Times: 1
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "Syma torotoro" ; Times: 3
+	Query: "Criniger ndussumensis" ; Times: 1
+	Query: "Lonchura leucosticta" ; Times: 8
+	Query: "61477" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "San Jacinto County" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 2
+	Query: "San Martin Baja AND Gifford NOT Pandion" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "specificepithet:cinereus genus:Contopus hastissue:1" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 4
+	Query: "specificepithet:ararauna genus:Ara hastissue:1" ; Times: 1
+	Query: "oceanites oceanicus antarctica" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 4
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "brown an" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Anas penelope" ; Times: 11
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Salpinctes NOT Elegaria NOT Uta" ; Times: 1
+	Query: "36314" ; Times: 1
+	Query: "lake michigan" ; Times: 3
+	Query: "Gallinago stenura" ; Times: 6
+	Query: "genus:branta specificepithet:canadensis" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "catalognumber:82050 institutioncode:CAS" ; Times: 2
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "specificepithet:bojeri genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "San Martin Baja AND Crocker NOT ICH NOT FISH" ; Times: 1
+	Query: "Oceanodroma hastissue:1" ; Times: 1
+	Query: "specificepithet:ocularis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "Tyto alba punctatissima" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Elegaria NOT Uta" ; Times: 2
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Flint Quinnipiac" ; Times: 1
+	Query: "specificepithet:adsimilis genus:dicrurus hasmass:1" ; Times: 1
+	Query: "Drepanornis" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "Lophura ignita" ; Times: 3
+	Query: "5290" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "Himantopus mexicanus" ; Times: 2
+	Query: "Ploceus ocularis" ; Times: 8
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Icteria virens" ; Times: 2
+	Query: "Carpodacus erythrinus India" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Vireo huttoni carolinae" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 4
+	Query: "Tilmatura dupontii" ; Times: 3
+	Query: "Columba livia" ; Times: 3
+	Query: "class:Aves catalognumber:61477" ; Times: 1
+	Query: "Buteo augur" ; Times: 4
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Karnovsky" ; Times: 1
+	Query: "Pheucticus melanocephalus" ; Times: 9
+	Query: "specificepithet:jacksoni genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Fulica atra" ; Times: 3
+	Query: "Passerina cyanea" ; Times: 2
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "hastissue:1 stateprovince:new mexico" ; Times: 1
+	Query: "junco hyemalis institutioncode:CAS" ; Times: 1
+	Query: "Quiscalus quiscula" ; Times: 2
+	Query: "Melospiza melodia" ; Times: 3
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 2
+	Query: "29346" ; Times: 1
+	Query: "Oceanodroma furcata hastissue:1" ; Times: 2
+	Query: "Wright AND Coronados AND Oceanodroma" ; Times: 3
+	Query: "catalognumber:94378 institutioncode:CAS" ; Times: 2
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "California condor" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Anas clypeata" ; Times: 13
+	Query: "birds hasmass:1" ; Times: 1
+	Query: "allegheny stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Tragopan satyra" ; Times: 3
+	Query: "&#34;Baird&#34; 1893" ; Times: 1
+	Query: "camel" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "26821" ; Times: 2
+	Query: "astrapia nigra" ; Times: 3
+	Query: "6081" ; Times: 1
+	Query: "10579 BEST" ; Times: 2
+	Query: "specificepithet:petechia country:&#34;mexico&#34; hastissue:1" ; Times: 6
+	Query: "Criniger calurus" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "specificepithet:speciosa genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes county:&#34;san mateo&#34; year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;panama&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "San Martin Baja AND Wright" ; Times: 1
+	Query: "specificepithet:velatus genus:Ploceus hastissue:1" ; Times: 3
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Elgaria NOT Uta NOT pituophis" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Anas falcata" ; Times: 13
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "manatee" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Grus monacha" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco hastissue:1" ; Times: 2
+	Query: "Vireo gilvus AND (swainsonii)" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "Buteo buteo" ; Times: 5
+	Query: "wings" ; Times: 1
+	Query: "passerina cyanea vntype:specimen" ; Times: 1
+	Query: "catalognumber:11446 institutioncode:CAS" ; Times: 2
+	Query: "corvus enca" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Rodent" ; Times: 1
+	Query: "F. domesticus" ; Times: 5
+	Query: "catalognumber:55148 institutioncode:CAS" ; Times: 2
+	Query: "vireo" ; Times: 2
+	Query: "george west" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "oceanodroma leucorhoa vntype:specimen" ; Times: 1
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "Garrulax perspicillatus" ; Times: 3
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck AND Amphispiza" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Corvus corax" ; Times: 9
+	Query: "Laterallus jamaicensis" ; Times: 5
+	Query: "cardinalis clintoni" ; Times: 2
+	Query: "22916" ; Times: 1
+	Query: "(10009)" ; Times: 2
+	Query: "Phoenicurus phoenicurus" ; Times: 9
+	Query: "specificepithet:arnaudi genus:Pseudonigrita hastissue:1" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "catalognumber:55199 institutioncode:CAS" ; Times: 2
+	Query: "Garrulax cineraceus" ; Times: 15
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "juncos" ; Times: 2
+	Query: "Buteo lineatus" ; Times: 7
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "leucorhoa hastissue:1" ; Times: 1
+	Query: "genus:anas stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; institutioncode:CAS Junco hyemalis" ; Times: 1
+	Query: "Callipepla gambelii" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 2
+	Query: "Oceanodroma leucorhoa hastissue:1" ; Times: 3
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Heterophasia melanoleuca" ; Times: 3
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Cisticola fulvicapilla" ; Times: 3
+	Query: "specificepithet:afer genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Nipponia nippon" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "San Martin Baja AND CAS 8671" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "Rallus obsoletus" ; Times: 1
+	Query: "m george west" ; Times: 1
+	Query: "lamprey" ; Times: 1
+	Query: "specificepithet:manyar genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Minla cyanouroptera" ; Times: 3
+	Query: "genus:caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "San Martin Baja AND Tose" ; Times: 1
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "26816" ; Times: 3
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "specificepithet:insignis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "vntype:specimen genus:Philortyx basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 3
+	Query: "CAS-62645" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 8
+	Query: "oceanodroma leucorhoa vntype:specimen hastissue:1" ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 4
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:hypoxanthus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 6
+	Query: "garrodia nereis" ; Times: 1
+	Query: "specificepithet:frontalis genus:Sporopipes hastissue:1" ; Times: 1
+	Query: "specificepithet:ciris genus:passerina stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Anas platyrhynchos lifestage:adult sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "California Condor" ; Times: 2
+	Query: "gallus" ; Times: 1
+	Query: "Cardinalis sinuatus sinuatus sex:Male hastissue:1" ; Times: 4
+	Query: "Cory Island" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "Snowy owl" ; Times: 2
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus hastissue:1" ; Times: 1
+	Query: "specificepithet:bilineata genus:amphispiza stateprovince:&#34;baja&#34;" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Athene cunicularia rostrata" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Sturnella neglecta" ; Times: 2
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "Aegithalos concinnus" ; Times: 4
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazilia edward" ; Times: 3
+	Query: "Carduelis carduelis" ; Times: 3
+	Query: "chloropsis palawanensis" ; Times: 2
+	Query: "molt" ; Times: 1
+	Query: "genus:Buteo" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Vireo huttoni 1904" ; Times: 1
+	Query: "40578" ; Times: 2
+	Query: "Emberiza pusilla" ; Times: 8
+	Query: "Eophona migratoria" ; Times: 8
+	Query: "rhynchocyclus pallidus" ; Times: 1
+	Query: "San Martin Baja NOT ICH NOT Fish AND Beck NOT Elgaria NOT Salpinctes NOT Elegaria NOT Uta" ; Times: 1
+	Query: "catalognumber:9339 institutioncode:CAS" ; Times: 2
+	Query: "Chondrohierax" ; Times: 2
+	Query: "Anas platyrhynchos sex:female AND (NOT diazi)" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:miller year &gt;= 1896 year &lt;= 1897" ; Times: 2
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Tachycineta albilinea" ; Times: 7
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Regulus regulus" ; Times: 3
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Campephilus" ; Times: 1
+	Query: "90476" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Ploceus hastissue:1" ; Times: 2
+	Query: "Plegadis chihi" ; Times: 3
+	Query: "specificepithet:bicolor genus:lonchura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Coracina melaschistos" ; Times: 4
+	Query: "Troglodytes troglodytes" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Buteo rufofuscus" ; Times: 4
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "Passer domesticus" ; Times: 8
+	Query: "Haliaeetus leucocephalus" ; Times: 8
+	Query: "Seicercus affinis" ; Times: 4
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Zonotrichia leucophrys" ; Times: 3
+	Query: "Falco jugger india" ; Times: 1
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1896 year &lt;= 1897" ; Times: 4
+	Query: "Piranga rubra" ; Times: 5
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "specificepithet:swainsoni genus:Buteo stateprovince:&#34;California&#34; month &gt;= 1 month &lt;= 2" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1171 download events in this period)
+Total number of records downloaded: 75944
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 64
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 7
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-27 ; Times: 9
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 5
+	Date: 2020-04-12 ; Times: 5
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Nipponia nippon" ; Times: 2
+	Query: "golden eagle" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "(Zalophus californianus) institutioncode:CAS" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "junco hyemalis institutioncode:CAS" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "family:Emberizidae hastissue:1" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Cardinalis sinuatus sex:Male hastissue:1" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Tyto alba punctatissima" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+
+
+End of report.
